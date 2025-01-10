@@ -125,5 +125,5 @@ This project showcases my ability to work with cloud technologies like AWS S3 to
 ---
 
 ## Connect with Me
-- **GitHub**: [Hina Atif](https://github.com/hinaatif)
-- **LinkedIn**: [Hina Atif](https://www.linkedin.com/in/hinaatif)
+- **GitHub**: [Hina-Atif](https://github.com/Hina-Atif)
+- **LinkedIn**: [Hina Atif](https://www.https://www.linkedin.com/in/hina-atif-devopsengineer/)
