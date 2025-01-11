@@ -103,13 +103,13 @@ The project files include:
 
 ### Screenshots
 #### 1. Static Website Hosting Configuration
-![Static Website Hosting](https://via.placeholder.com/800x400)
+![Static Website Hosting](https://github.com/Hina-Atif/static-website-deployment-hina-atif/commit/c5ad31f5afb5353f08474e8af8f1f90085159b9c#diff-fff4f04158ac88ad021cc2fa60bf28f0c156179032ffc5cc2fa13227dd077838)
 
 #### 2. Bucket Policy
-![Bucket Policy](https://via.placeholder.com/800x400)
+![Bucket Policy](https://github.com/Hina-Atif/static-website-deployment-hina-atif/commit/c5ad31f5afb5353f08474e8af8f1f90085159b9c#diff-eb55f17caad1c5ea405a278815899d9e5a59ab853bc1230aee6c3bd21d967474)
 
 #### 3. Final Output
-![Website Output](https://via.placeholder.com/800x400)
+![Website Output](https://github.com/Hina-Atif/static-website-deployment-hina-atif/commit/c5ad31f5afb5353f08474e8af8f1f90085159b9c#diff-65393cc1bb52748f0f69fc404538cb36c3d3469369dc2bd497627be76c2bfe68)
 
 ---
 
