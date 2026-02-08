@@ -8,6 +8,9 @@ This project demonstrates how to host a **static website** on **AWS S3** using *
 
 ---
 
+<img width="622" height="254" alt="image" src="https://github.com/user-attachments/assets/03e43aab-c084-4093-a1b0-b957b6c68b5a" />
+ ---
+
 ## 🧰 Tools & Technologies Used
 
 | Category            | Tools                            |
